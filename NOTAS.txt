@@ -1,0 +1,11 @@
+NOTAS:
+
+- Añadir funcionalidades:
+    - Minutos y segundos de cancion / Duracion
+    - Línea de progreso y poder moverte en ella
+    - Agregar titulo de los videos ( Aprender Youtube API )
+    
+- Posible feature: agregar canciones por nombre en vez de colocar url
+
+
+- Mejorar UI (Bootstrap)
